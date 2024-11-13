@@ -277,6 +277,7 @@ img {
   justify-content: center;
   gap: 24px;
   fill: #f4f4fd;
+  margin-top: 8px;
 }
 .social-links {
   width: 40px;
